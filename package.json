@@ -1,5 +1,5 @@
 {
-  "name": "grunt-image-compress",
+  "name": "grunt-image-compression",
   "version": "1.0.0",
   "description": "Simple tool to compress images with Grunt",
   "main": "index.js",
